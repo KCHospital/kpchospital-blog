@@ -21,14 +21,18 @@ public > blog-pictures > maybe folder of the post > give it a name (without spac
 ## Run npm run dev
 Type in "npm run dev" > press enter
 
-# Create a commit (for publishing)
+# IMPORTANT
+## Create a commit (for publishing)
 - Click on "Source Control" (somewhere under the "Exlorer" - top left)
 - Everything that has changed will be in "Changes"
 - Stage those changes (click on "+")
 - Everything should now be in "Staged Changes"
 - Write in some messages for the commit > Click "Commit"
 
-# Publish to GitHub
+## Publish to GitHub
 Click on "Sync Changes" (if shown)
 
 if not, click on "..." after "Source Control" that says "More actions" > Choose "Push"
+
+# Learn HTML
+https://www.w3schools.com/
