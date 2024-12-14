@@ -27,3 +27,8 @@ Type in "npm run dev" > press enter
 - Stage those changes (click on "+")
 - Everything should now be in "Staged Changes"
 - Write in some messages for the commit > Click "Commit"
+
+# Publish to GitHub
+Click on "Sync Changes" (if shown)
+
+if not, click on "..." after "Source Control" that says "More actions" > Choose "Push"
